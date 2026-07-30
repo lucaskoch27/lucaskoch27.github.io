@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+gem "ostruct"
+gem "tzinfo-data"
 
 group :jekyll_plugins do
   gem 'jekyll'

@@ -107,6 +107,13 @@ h2 {
   font-size: 1.05rem;
 }
 
+.post-meta {
+  margin: -0.4rem 0 0.6rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
 .pub-list {
   list-style: none;
   padding: 0;
